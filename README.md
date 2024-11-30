@@ -11,9 +11,11 @@ I'm looking for opportunities to collaborate on amazing projects where I can con
 ---
 
 ## 🌟 Connect with Me
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/ooluseye16) **GitHub:** [github.com/ooluseye16](https://github.com/ooluseye16)  
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/oluseye_obitola/) **Instagram:** [@oluseye_obitola](https://www.instagram.com/oluseye_obitola/)  
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/oluseye_obitola) **Twitter:** [@oluseye_obitola](https://twitter.com/oluseye_obitola)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="14">](https://github.com/ooluseye16) [**GitHub**](https://github.com/ooluseye16)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="14">](https://www.linkedin.com/in/oluseye-obitola) [**LinkedIn**](https://www.linkedin.com/in/oluseye-obitola)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="14">](https://twitter.com/oluseye_obitola) [**Twitter**](https://twitter.com/oluseye_obitola)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="14">](https://www.instagram.com/oluseye_obitola/) [**Instagram**](https://www.instagram.com/oluseye_obitola/)  
+
 
 ---
 
